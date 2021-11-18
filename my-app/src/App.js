@@ -49,7 +49,7 @@ function App() {
         title={expenses[3].title}
         amount={expenses[3].amount}
         date={expenses[3].date}
-      />
+      />я закончила HW_33
     </div>
   );
 }
